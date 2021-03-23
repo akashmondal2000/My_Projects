@@ -1,2 +1,2 @@
 # My_Projects
-Encryption
+Encryption minor project
